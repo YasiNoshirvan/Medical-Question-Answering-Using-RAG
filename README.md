@@ -15,7 +15,7 @@ This project explores the complete path from **PDF text extraction** to **semant
 5. **Retrieve context:** Find the **three nearest chunks** for each user question.
 6. **Generate an answer:** Pass the retrieved text and page references to `openai/gpt-oss-20b` through Groq.
 
-## 🧠 Workflow
+## 🧩 Workflow
 
 ```text
 symptoms.pdf
