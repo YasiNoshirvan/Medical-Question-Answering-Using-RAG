@@ -1,4 +1,4 @@
-# 🩺 Medical Question Answering Using RAG
+## 🩺 Medical Question Answering Using RAG
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Embeddings-Hugging%20Face-FFD21E) ![ChromaDB](https://img.shields.io/badge/Vector%20DB-Chroma-7952B3) ![Groq](https://img.shields.io/badge/LLM-Groq-F55036)
 
